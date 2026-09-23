@@ -1,0 +1,48 @@
+{
+  "version": "2.6.2",
+  "release_version": "-",
+  "released_at": "2026-02-09",
+  "summary": {
+    "title": "Threat Model E-Commerce",
+    "owner": "Detik Detik Terakhir",
+    "description": "Aplikasi e-commerce ini adalah aplikasi untuk UMKM berdagang tanpa perli khawatir dengan baiaya sewa toko yang mahal",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Yulia Fitri"
+      },
+      {
+        "name": "Alena Alfiana"
+      },
+      {
+        "name": "Shofie Trihapsari"
+      },
+      {
+        "name": "Syifa Sakinah Sofyan"
+      },
+      {
+        "name": "ALya Dwi Cahyani"
+      },
+      {
+        "name": "Zihan Diva"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 2,
+        "title": "Diagram Sistem E-Commerce",
+        "diagramType": "STRIDE",
+        "placeholder": "Deskripsi diagram STRIDE baru",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data Flow Diagram untuk Aplikasi pemesanan online"
+      }
+    ],
+    "diagramTop": 3,
+    "reviewer": "April Rustianto, M.Kom",
+    "threatTop": 0
+  }
+}
