@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-02-09",
+  "summary": {
+    "title": "E-Commerce Threat Model",
+    "owner": "Yulia Fitri",
+    "description": "Sistem aplikasi manajemen toko online berbasis startup yang terdiri dari Frontend React, Backend REST API Node.js, Database MySQL, Redis Cache, dan integrasi Email Service. Sistem melayani tiga aktor utama yaitu Customer (registrasi, login, pemesanan, dan pembayaran), Admin (pengelolaan produk), serta pihak ketiga Payment Gateway (Midtrans/Xendit) untuk memproses transaksi",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "-",
+    "threatTop": 0
+  }
+}
